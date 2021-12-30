@@ -36,3 +36,141 @@
     transform: rotate(360deg);
   }
 }
+
+.campaign-config {
+  background-color: #808080;
+  border: 1px solid black;
+  padding: 8px;
+  margin-top: 12px; }
+
+.campaign-config-heading {
+  font-size: 36px;
+  font-weight: 700;
+  padding: 4px 0 8px 4px; }
+
+.updated_by {
+  color: green;
+  font-variant: petite-caps;
+  letter-spacing: initial; }
+
+.updated_at {
+  color: green;
+  font-variant: petite-caps;
+  letter-spacing: initial; }
+
+.campaign-config-description {
+  font-size: 20px;
+  padding: 0 0 10px 4px;
+  font-weight: 400; }
+
+.rule-timestamp {
+  font-size: 16px;
+  margin-top: 1em; }
+
+.rule-config-heading {
+  font-size: 24px;
+  font-weight: 500; }
+
+.rule-heading-divider {
+  border-color: black;
+  margin-top: 2px;
+  margin-bottom: 8px; }
+
+.rule-config {
+  padding: 10px;
+  border: 1px solid darkslategrey;
+  margin-bottom: 8px;
+  border-radius: 8px; }
+
+.rule-config-off {
+  background-color: #FFABA2; }
+
+.rule-config-on {
+  background-color: #cfc; }
+
+.rule-config-description {
+  margin-bottom: 8px;
+  font-size: 18px; }
+
+.rule-config-next-rules {
+  font-size: 18px; }
+
+.rule-config-next-rules a {
+  color: blue; }
+
+.rule-anchor {
+  position: relative;
+  top: -100px; }
+
+.field-config-heading {
+  font-size: 20px;
+  font-weight: 300; }
+
+.field-config {
+  display: flex;
+  flex-direction: row; }
+
+.field-config-boolean {
+  padding: 12px 12px 10px 12px; }
+
+.field-config-integer {
+  padding-top: 2px;
+  padding-left: 12px; }
+
+.field-config-integer-array {
+  padding: 8px;
+  border: 1px solid black; }
+
+.field-config-heading {
+  padding: 12px 4px; }
+
+.field-config-button-divider {
+  width: 4%;
+  height: auto;
+  display: inline-block; }
+
+.field-config-array-buttons {
+  margin: auto;
+  width: 100%;
+  margin-left: 14%; }
+
+.field-config-array-button {
+  width: 34%; }
+
+.btn.btn-primary.evaluate-lead-button {
+  margin: 0px 0px 13px 10px; }
+
+.lead-evaluation-box {
+  display: flex; }
+
+.save-button {
+  z-index: 1030;
+  width: 100%;
+  background: white;
+  position: fixed;
+  margin-top: -17px; }
+
+.queuing-eligible-campaign-row {
+  margin-top: 20px;
+  padding: 20px; }
+
+.queuing-eligible-campaign-row h4 {
+  padding-bottom: 10px; }
+
+.ab-test-config {
+  margin-bottom: 20px;
+  text-align: center;
+  color: red; }
+
+.flow-chart svg {
+  top: -50px !important; }
+
+span.nodeText {
+  margin: auto;
+  position: absolute;
+  top: 40%;
+  left: 6%;
+  right: 6%; }
+
+/*# sourceMappingURL=custom.css.map */
+

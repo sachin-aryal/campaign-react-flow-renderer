@@ -1,11 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bedceed2-3320-46c3-8c69-e3c46ca2600c" name="Default Changelist" comment="" />
+    <list default="true" id="bedceed2-3320-46c3-8c69-e3c46ca2600c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/campaign_graph.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/campaign_react_org_chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/dabeng/ChartContainer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/dabeng/ChartContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/dabeng/ChartNode.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/dabeng/ChartNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/dabeng/service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/input.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/my-node.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/my-node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/shopper_campaign_setting.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="22wObhER3x91SeNJa9yt3uuCF5x" />
   <component name="ProjectViewState">
@@ -15,9 +36,19 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
@@ -32,11 +63,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1640745255785</updated>
-      <workItem from="1640745257048" duration="323000" />
+      <workItem from="1640745257048" duration="10355000" />
+      <workItem from="1640838322229" duration="9092000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="601" y="369" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1640763025755">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="601" y="369" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1640763025755" />
+    <state x="548" y="345" key="EditFileWatcherDialog" timestamp="1640762991785">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="548" y="345" key="EditFileWatcherDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1640762991785" />
+    <state x="698" y="464" width="395" height="264" key="Github.ShareDialog" timestamp="1640863110986">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="698" y="464" width="395" height="264" key="Github.ShareDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1640863110986" />
+    <state x="597" y="315" width="598" height="490" key="find.popup" timestamp="1640861951095">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="597" y="315" width="598" height="490" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1640861951095" />
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1640863054426">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1640863054426" />
   </component>
 </project>
